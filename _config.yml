@@ -1,0 +1,28 @@
+name: PeopleOps Test
+favicon: null
+layout_spectrum: 0.07397529436275363
+typography_spectrum: 0.8929129370953888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9560073637403548
+  lightness: 0.12096417951397598
+  saturation: 0.5032361389603466
+  rhythmicContrast: 0.6443787023890764
+purpose: []
